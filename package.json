@@ -1,18 +1,14 @@
 {
-  "name": "expressbase",
+  "name": "2893vo-intento-de-vercel",
   "version": "1.0.0",
-  "description": "Proyecto con estructura recomendada para comenzar nuevos proyectos con ExpressJs",
-  "main": "server.js",
+  "description": "Bla bla.",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node server.js",
     "start": "node server.js"
   },
-  "keywords": [
-    "expressJs",
-    "base"
-  ],
   "author": "Lic. García Héctor",
+
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
@@ -30,15 +26,12 @@
     "path": "^0.12.7",
     "validator": "^13.7.0"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.15"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hrgarcia/hospitalPediatrico.git"
+    "url": "git+https://github.com/evisintin1/2893vo-intento-de-vercel.git"
   },
   "bugs": {
-    "url": "https://github.com/hrgarcia/hospitalPediatrico/issues"
+    "url": "https://github.com/evisintin1/2893vo-intento-de-vercel/issues"
   },
-  "homepage": "https://github.com/hrgarcia/hospitalPediatrico#readme"
+  "homepage": "https://github.com/evisintin1/2893vo-intento-de-vercel#readme"
 }
